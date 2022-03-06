@@ -1,4 +1,4 @@
-module github.com/Pavel7004/common
+module github.com/Pavel7004/Common
 
 go 1.17
 
