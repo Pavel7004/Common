@@ -3,7 +3,7 @@ package tracing
 import (
 	"context"
 
-	misc "github.com/Pavel7004/common/misc"
+	misc "github.com/Pavel7004/Common/misc"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 
